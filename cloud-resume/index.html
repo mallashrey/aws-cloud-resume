@@ -61,7 +61,7 @@
 										<li>The interactivity is brought to life by JavaScript, which makes requests to a Lambda function URL to update and retrieve the current viewer count, infusing a dynamic element into the static website.</li>
 										<li>Database in DynamoDB to save and update the visitor counter.</li>
 										<li>Lambda function that updates the database.</li>
-										<li>CI/CD</li>
+										<li>An automated CI/CD pipeline set up with GitHub Actions, which ensures that any updates pushed to the GitHub repository are automatically deployed to the S3 bucket. Subsequently, CloudFront's cache is invalidated to reflect the changes immediately on the site hosted globally.</li>
 
 									</ul>
 								</div>
