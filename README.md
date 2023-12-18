@@ -8,3 +8,4 @@ Tech-stack:
 •	AWS Lambda
 •	DynamoDB
 •	Github Actions
+<img width="1368" alt="AWS-Architecture-Cloud-resume-challenge" src="https://github.com/mallashrey/aws-cloud-resume/assets/88026321/6403a194-fe09-4a85-8fe4-74148465cfc0">
